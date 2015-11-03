@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 feature-img: "img/Blocipedia_Feature.jpg"
-thumbnail-path: "https://s3-us-west-2.amazonaws.com/lgreen-screenshots-bloc/Blocipedia+Screenshot.png"
+thumbnail-path: "https://s3-us-west-2.amazonaws.com/lgreen-screenshots-bloc/Blocipedia2.png"
 short-description: Blocipedia allows users to create their own wikis.
 
 ---

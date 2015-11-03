@@ -60,3 +60,29 @@
   padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
 }
+
+.text-center {
+  text-align: center;
+}
+
+#contact-form {
+  width: 500px;
+  margin: 0 auto;
+
+  input, textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 20px;
+
+    &:focus {
+      outline: 0;
+    }
+  }
+
+  textarea {
+    height: 100px;
+  }
+}
+
