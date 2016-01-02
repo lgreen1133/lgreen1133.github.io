@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Todo API
-feature-img: "img/Todo_feature.jpg"
+feature-img: "img/Todo_Feature.jpg"
 thumbnail-path: "https://s3-us-west-2.amazonaws.com/lgreen-screenshots-bloc/Todo_feature.png"
 short-description: An externally usable API for a basic todo list application.
 
