@@ -6,28 +6,28 @@ url: "http://lgreen1133.github.io/" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Liz Green
-  avatar: 
+  avatar:
   gravatar: 0cc6ea80425be244a149ccaa5b47f1a7
   description: "My personal portfolio showcasing previous projects" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Aspiring Developer, Poet, and Enthusiastic Weightlifter.</h1>
+     <h1>Geek, Poet, and Aspiring World Traveler.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: lizelotte.green@icloud.com 
+  email_address: lizelotte.green@icloud.com
   behance:
   bitbucket:
-  dribbble: 
+  dribbble:
   facebook: "liz.verde2"
   flickr:
   github: "lgreen1133"
   google_plus:
-  instagram: 
+  instagram:
   linkedin:  https://www.linkedin.com/in/lizelottegreen
   pinterest:
   reddit:
