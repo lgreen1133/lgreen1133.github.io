@@ -1,4 +1,4 @@
----
+{{/* ---
 layout: page
 title: Contact
 permalink: /contact/
@@ -14,4 +14,4 @@ feature-img: "img/sample_feature_img_3.png"
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
-</form>
+</form> */}}
